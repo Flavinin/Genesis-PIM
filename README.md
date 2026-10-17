@@ -1,3 +1,4 @@
 # Genesis-PIM
 O projeto propõe o desenvolvimento de um sistema de controle de ponto para a empresa Gênesis Suprimentos, permitindo registrar entradas, saídas e intervalos dos funcionários, calcular horas trabalhadas e extras, identificar atrasos e gerar relatórios, facilitando a gestão de jornada e reduzindo erros.
+
 A Genesis Suprimentos é uma empresa de pequeno porte localizada em São José dos Campos, no bairro Jardim Motorama. Fundada em 1996, a organização atua no fornecimento de materiais utilizados por outras empresas, como itens de escritório, papelaria, copa, higiene e limpeza. Apesar de possuir uma estrutura enxuta, com cerca de 15 colaboradores, a empresa realiza atividades importantes para seus clientes, como atendimento, controle de pedidos, organização de documentos, faturamento e apoio logístico.
