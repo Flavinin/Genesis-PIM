@@ -1,8 +1,8 @@
-SPRINT 01
+SPRINT 01 (sprint backlog).
 
 No dia 17/10/2026, iniciamos o projeto Gênesis Ponto, com o objetivo de identificar e buscar uma solução para um problema que vem afetando a rotina da empresa Gênesis Suprimentos: as dificuldades enfrentadas por alguns funcionários no registro do ponto e no controle das horas extras.
 
-Após entrar em contato com a administração da empresa, conseguimos realizar as seguintes atividades iniciais:
+Após entrar em contato com os stakeholders, conseguimos realizar as seguintes atividades iniciais:
 
 Levantamento dos requisitos funcionais: identificação e organização das necessidades apresentadas pelos stakeholders.
 
